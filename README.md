@@ -2,7 +2,6 @@
 
 ASSIGNMENT
   Create a website or a web API on which you can search for movie trailers.
-
     -Use an API of an online movie database (e.g. IMDB or Rotten Tomatoes);
     -Use an API of an online video service (e.g. YouTube or Vimeo);
     -Create your own WebAPI as middleware to retrieve the results of both services and aggregate them;
